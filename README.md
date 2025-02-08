@@ -29,7 +29,7 @@ Embarking on a dynamic cybersecurity journey to share valuable insights through 
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Secure_Endpoint-00A4EF?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
