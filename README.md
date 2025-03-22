@@ -1,4 +1,4 @@
-# Hello, I'm Whitehat-Hero7  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Ricardo aka Whitehat-Hero7  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Cybersecurity Engineering graduate with SOC Analyst experience, specializing in alert triaging, log analysis, threat detection and analysis, incident response, and endpoint security. Bringing a strong work ethic, critical thinking, and problem-solving skills, leveraging my professional, technical, and academic experiences for a cybersecurity analyst role.
 
@@ -10,7 +10,7 @@ Embarking on a dynamic cybersecurity journey to share valuable insights through 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Ubuntu Virtual Machine (VM) Installation      | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
