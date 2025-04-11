@@ -10,6 +10,8 @@ VirtualBox Sandbox HomeLab
 |-|
 |<a href="https://github.com/whitehat-hero7/Ubuntu-Virtual-Machine-VM-Installation-on-VirtualBox">Ubuntu Virtual Machine (VM) Installation on VirtualBox</a>|
 |<a href="https://github.com/whitehat-hero7/Snort-Installation-in-Ubuntu-Virtual-Machine-VM">Snort Installation in Ubuntu Virtual Machine (VM)</a>|
+|<a href="https://github.com/whitehat-hero7/Snort-Logging-and-Custom-Rule-Setup-on-Ubuntu-VM">Snort Logging and Custom Rule Setup on Ubuntu (VM)</a>|
+
 
 ## Tools 
 #### 💻 Virtualization & Operating Systems
