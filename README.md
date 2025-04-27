@@ -1,4 +1,4 @@
-# Hello, I'm Ricardo (Whitehat-Hero7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-gallegos/)
+# Hello, I'm Ricardo (SOC Analyst) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-gallegos/)
 
 U.S. Navy veteran with 12 years of professional working experience, including management, administration, teamwork, and supervision; 4 years as a SOC analyst, specializing in alert triaging, log analysis, threat detection and analysis, incident response, and endpoint security. Bringing a strong work ethic, critical thinking, and problem-solving skills to leverage my professional, technical, and academic experiences to a cybersecurity analyst role.
 
