@@ -5,7 +5,7 @@ U.S. Navy veteran with 12 years of professional working experience, including ma
 ## Objective
 Embarking on a dynamic cybersecurity journey to share valuable insights through hands-on projects, including penetration testing exercises, SOC analyst scenarios, and CTF challenge walkthroughs, with the goal of educating and contributing meaningfully to the cybersecurity community.
 
-![CyberHackGIF](https://github.com/user-attachments/assets/9ca6a2e9-0008-46f3-aed8-89fbc9cfb729) 
+<img src="https://github.com/user-attachments/assets/9ca6a2e9-0008-46f3-aed8-89fbc9cfb729" height="150" width="1000" >
 
 ## Projects
 VirtualBox Sandbox HomeLab 
