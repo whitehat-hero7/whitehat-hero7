@@ -14,6 +14,9 @@ VirtualBox Sandbox HomeLab
 |<a href="https://github.com/whitehat-hero7/Snort-Installation-in-Ubuntu-Virtual-Machine-VM">Snort Installation in Ubuntu Virtual Machine (VM)</a>|
 |<a href="https://github.com/whitehat-hero7/Snort-Logging-and-Custom-Rule-Setup-on-Ubuntu-VM">Snort Logging and Custom Rule Setup on Ubuntu (VM)</a>|
 
+TryHackMe Walkthroughs 
+|-|
+|<a href="https://github.com/whitehat-hero7/Connect-to-TryHackMe-using-OpenVPN">Connect Kali Linux VM to TryHackMe using OpenVPN</a>|
 
 ## Tools 
 #### 💻 Virtualization & Operating Systems
