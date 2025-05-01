@@ -5,10 +5,10 @@ U.S. Navy veteran with 12 years of professional working experience, including ma
 ## Objective
 Embarking on a dynamic cybersecurity journey to share valuable insights through hands-on projects, including penetration testing exercises, SOC analyst scenarios, and CTF challenge walkthroughs, with the goal of educating and contributing meaningfully to the cybersecurity community.
 
-<img src="https://github.com/user-attachments/assets/9ca6a2e9-0008-46f3-aed8-89fbc9cfb729" height="150" width="1000" >
+<img src="https://github.com/user-attachments/assets/9ca6a2e9-0008-46f3-aed8-89fbc9cfb729" height="110" width="1000" >
 
 ## Projects
-VirtualBox Sandbox HomeLab 
+VirtualBox Sandbox HomeLab
 |-|
 |<a href="https://github.com/whitehat-hero7/Ubuntu-Virtual-Machine-VM-Installation-on-VirtualBox">Ubuntu Virtual Machine (VM) Installation on VirtualBox</a>|
 |<a href="https://github.com/whitehat-hero7/Snort-Installation-in-Ubuntu-Virtual-Machine-VM">Snort Installation in Ubuntu Virtual Machine (VM)</a>|
@@ -17,6 +17,7 @@ VirtualBox Sandbox HomeLab
 TryHackMe Walkthroughs 
 |-|
 |<a href="https://github.com/whitehat-hero7/Connect-to-TryHackMe-using-OpenVPN">Connect Kali Linux VM to TryHackMe using OpenVPN</a>|
+|<a href="https://github.com/whitehat-hero7/Lookup-Walkthrough-TryHackMe">Lookup-Walkthrough-TryHackMe</a>|
 
 ## Tools 
 #### 💻 Virtualization & Operating Systems
