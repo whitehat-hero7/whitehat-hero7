@@ -10,14 +10,14 @@ Embarking on a dynamic cybersecurity journey to share valuable insights through 
 ## Projects
 VirtualBox Sandbox HomeLab
 |-|
-|<a href="https://github.com/whitehat-hero7/Ubuntu-Virtual-Machine-VM-Installation-on-VirtualBox">Ubuntu Virtual Machine (VM) Installation on VirtualBox</a>|
-|<a href="https://github.com/whitehat-hero7/Snort-Installation-in-Ubuntu-Virtual-Machine-VM">Snort Installation in Ubuntu Virtual Machine (VM)</a>|
+|<a href="https://github.com/whitehat-hero7/Ubuntu-Virtual-Machine-VM-Installation-on-VirtualBox">Ubuntu (VM) Installation on VirtualBox</a>|
+|<a href="https://github.com/whitehat-hero7/Snort-Installation-in-Ubuntu-Virtual-Machine-VM">Snort Installation in Ubuntu (VM)</a>|
 |<a href="https://github.com/whitehat-hero7/Snort-Logging-and-Custom-Rule-Setup-on-Ubuntu-VM">Snort Logging and Custom Rule Setup on Ubuntu (VM)</a>|
 
 TryHackMe Walkthroughs 
 |-|
-|<a href="https://github.com/whitehat-hero7/Connect-to-TryHackMe-using-OpenVPN">Connect Kali Linux VM to TryHackMe using OpenVPN</a>|
-|<a href="https://github.com/whitehat-hero7/Lookup-Walkthrough-TryHackMe">Lookup-Walkthrough-TryHackMe</a>|
+|<a href="https://github.com/whitehat-hero7/Connect-to-TryHackMe-using-OpenVPN">Connect Kali Linux (VM) to TryHackMe using OpenVPN</a>|
+|<a href="https://github.com/whitehat-hero7/Lookup-Walkthrough-TryHackMe">Lookup_Walkthrough-TryHackMe</a>|
 
 ## Tools 
 #### 💻 Virtualization & Operating Systems
