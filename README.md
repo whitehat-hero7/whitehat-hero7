@@ -17,7 +17,11 @@ VirtualBox Sandbox HomeLab
 TryHackMe Walkthroughs 
 |-|
 |<a href="https://github.com/whitehat-hero7/Connect-to-TryHackMe-using-OpenVPN">Connect Kali Linux (VM) to TryHackMe using OpenVPN</a>|
-|<a href="https://github.com/whitehat-hero7/Lookup-Walkthrough-TryHackMe">Lookup_Walkthrough-TryHackMe</a>|
+|<a href="https://github.com/whitehat-hero7/Lookup-Walkthrough-TryHackMe">Lookup (WALKTHROUGH)-TryHackMe</a>|
+
+TryHackMe Walkthroughs 
+|-|
+|<a href="https://github.com/whitehat-hero7/Snort_Write-Up-TryHackMe">Snort (WRITE-UP)-TryHackMe</a>|
 
 ## Tools 
 #### 💻 Virtualization & Operating Systems
