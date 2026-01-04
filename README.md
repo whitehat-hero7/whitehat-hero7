@@ -14,14 +14,14 @@ VirtualBox Sandbox HomeLab
 |<a href="https://github.com/whitehat-hero7/Snort-Installation-in-Ubuntu-Virtual-Machine-VM">Snort Installation in Ubuntu (VM)</a>|
 |<a href="https://github.com/whitehat-hero7/Snort-Logging-and-Custom-Rule-Setup-on-Ubuntu-VM">Snort Logging and Custom Rule Setup on Ubuntu (VM)</a>|
 
-TryHackMe WALKTHROUGHs
-|-|
-|<a href="https://github.com/whitehat-hero7/Connect-to-TryHackMe-using-OpenVPN">Connect Kali Linux (VM) to TryHackMe using OpenVPN</a>|
+| TryHackMe WALKTHROUGHs | TryHackMe WRITE-UPs |
+|------------------------|---------------------|
+|<a href="https://github.com/whitehat-hero7/Connect-to-TryHackMe-using-OpenVPN">Connect Kali Linux (VM) to TryHackMe using OpenVPN</a>|<a href="https://github.com/whitehat-hero7/Snort_Write-Up-TryHackMe">Snort (WRITE-UP)-TryHackMe</a>|
 |<a href="https://github.com/whitehat-hero7/Lookup-Walkthrough-TryHackMe">Lookup (WALKTHROUGH)-TryHackMe</a>|
 
-TryHackMe WRITE-UPs 
+| HackTheBox WALKTHROUGHs |
 |-|
-|<a href="https://github.com/whitehat-hero7/Snort_Write-Up-TryHackMe">Snort (WRITE-UP)-TryHackMe</a>|
+|<a href="https://github.com/whitehat-hero7/Security_Monitoring_and_SIEM_Fundamentals-Walkthrough--HackTheBox/blob/main/README.md">Security Monitoring and SIEM Fundamentals (WALKTHROUGH)-HackTheBox</a>|
 
 ## Tools 
 #### 💻 Virtualization & Operating Systems
