@@ -41,6 +41,7 @@ VirtualBox Sandbox HomeLab
 
 #### 🛡️ Security Monitoring & SIEM
 [![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)](https://www.splunk.com/)
+[![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=fff)](#)
 [![Security Onion](https://img.shields.io/badge/Security_Onion-002147?style=for-the-badge&logo=security&logoColor=white)](https://securityonion.net/)
 [![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=for-the-badge&logo=servicenow&logoColor=white)](https://www.servicenow.com/)
 [![Snort](https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logo=snort&logoColor=white)](https://www.snort.org/)
