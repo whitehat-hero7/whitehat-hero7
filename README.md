@@ -13,6 +13,8 @@ VirtualBox Sandbox HomeLab
 |<a href="https://github.com/whitehat-hero7/Ubuntu-Virtual-Machine-VM-Installation-on-VirtualBox">Ubuntu (VM) Installation on VirtualBox</a>|
 |<a href="https://github.com/whitehat-hero7/Snort-Installation-in-Ubuntu-Virtual-Machine-VM">Snort Installation in Ubuntu (VM)</a>|
 |<a href="https://github.com/whitehat-hero7/Snort-Logging-and-Custom-Rule-Setup-on-Ubuntu-VM">Snort Logging and Custom Rule Setup on Ubuntu (VM)</a>|
+|<a href="https://github.com/whitehat-hero7/Installing-Elastic-Stack-ELK-Kibana-on-Kali-Linux">Installing Elasticsearch and Kibana on Kali Linux (VM)</a>|
+
 
 | TryHackMe WALKTHROUGHs | TryHackMe WRITE-UPs |
 |------------------------|---------------------|
