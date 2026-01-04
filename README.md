@@ -21,7 +21,7 @@ VirtualBox Sandbox HomeLab
 
 | HackTheBox WALKTHROUGHs |
 |-|
-|<a href="https://github.com/whitehat-hero7/Security_Monitoring_and_SIEM_Fundamentals-Walkthrough--HackTheBox/blob/main/README.md">Security Monitoring and SIEM Fundamentals (WALKTHROUGH)-HackTheBox</a>|
+|<a href="https://github.com/whitehat-hero7/Security_Monitoring_and_SIEM_Fundamentals-Walkthrough--HackTheBox/tree/main">Security Monitoring and SIEM Fundamentals (WALKTHROUGH)-HackTheBox</a>|
 
 ## Tools 
 #### 💻 Virtualization & Operating Systems
